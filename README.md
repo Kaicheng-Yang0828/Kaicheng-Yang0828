@@ -16,8 +16,6 @@ I'm Kaicheng Yang, an algorithm researcher at DeepGlint. In 2021, I earned my ma
 - *2023.05*: I will attend ICLR2023, happy to see you in ICLR (Kigali) in person.
 - *2023.01*: 🎉 [Unicom](https://arxiv.org/pdf/2304.05884.pdf) has been accepted by ICLR2023.
 - *2022.10*: We achieve 11/1022(top 1%) in the [Google Universal Image Embedding Challenge(ECCV2022 Instance-Level Recognition workshop)](https://www.kaggle.com/competitions/google-universal-image-embedding/overview/eccv-2022).
-- *2022.07*: I joined DeepGlint as an algorithm researcher.
-- *2021.01*: I joined MovieBook as an algorithm engineer.
 - *2020.10*: 🎉 CM-BERT has been accepted by ACM MM2020(**Oral**).
 - *2020.07*: 🎉 CH-SIMS has been accepted by ACL2020.
 
