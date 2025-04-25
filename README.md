@@ -1,7 +1,12 @@
 ## Hi There 👋
 I'm Kaicheng Yang, an algorithm researcher at DeepGlint. In 2021, I earned my master’s degree from Hebei University of Science and Technology. During 2018 to 2020, I had the opportunity to conduct research as a visiting student at Tsinghua University under the mentorship of Professor Hua Xu. My research interests include multimodal representation learning, vision-language pretraining, and contrastive learning.
 
+I’m actively hiring interns in the fields of multimodal representation learning, large-scale data cleaning, RAG, and Agent. If you want to collaborate with me, please feel free to contact me😊.
+
+Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
+
 ## Recent News🔥
+- *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2502.12513) and [UniME](https://arxiv.org/pdf/2504.17432).
 - *2025.02*: We present the [RealSyn](https://arxiv.org/abs/2502.12513).
 - *2024.12*: 🎉[CLIP-CID](https://arxiv.org/pdf/2408.09441) has been accepted by AAAI2025.
 - *2024.11*: 🎉 [ORID](https://arxiv.org/pdf/2411.13025) has been accepted by WACV2025.
