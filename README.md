@@ -6,7 +6,7 @@ I’m actively hiring interns in the fields of multimodal representation learnin
 Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
 
 ## Recent News🔥
-- *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2502.12513) and [UniME](https://arxiv.org/pdf/2504.17432).
+- *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432).
 - *2025.02*: We present the [RealSyn](https://arxiv.org/abs/2502.12513).
 - *2024.12*: 🎉[CLIP-CID](https://arxiv.org/pdf/2408.09441) has been accepted by AAAI2025.
 - *2024.11*: 🎉 [ORID](https://arxiv.org/pdf/2411.13025) has been accepted by WACV2025.
