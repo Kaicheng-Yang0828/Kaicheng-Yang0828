@@ -6,6 +6,9 @@ I’m actively hiring interns in the fields of multimodal representation learnin
 Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
 
 ## Recent News🔥
+- *2025.07*: 🎉 Three paper(RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
+- *2025.06*: 🎉 Three paper(RICE, ForCenNet, HUST) have been accepted by ICCV2025.
+- *2025.06*: 🎉 DLOV-3D has been accepted by IROS2025.
 - *2025.04*: We present the [DeGLA](https://arxiv.org/abs/2504.16801) and [UniME](https://arxiv.org/pdf/2504.17432).
 - *2025.02*: We present the [RealSyn](https://arxiv.org/abs/2502.12513).
 - *2024.12*: 🎉[CLIP-CID](https://arxiv.org/pdf/2408.09441) has been accepted by AAAI2025.
