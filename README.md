@@ -6,6 +6,10 @@ I’m actively hiring interns in the fields of multimodal representation learnin
 Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
 
 ## Recent News🔥
+- *2025.10*: We present the [UniME-V2](https://arxiv.org/pdf/2510.13515).
+- *2025.09*: We present the [LLaVA-OneVision-1.5](https://arxiv.org/abs/2509.23661).
+- *2025.09*: 🎉 UniViT have been accepted by NeurIPS2025.
+- *2025.08*: 🎉 [GA-DMS](https://arxiv.org/pdf/2509.09118) has been accepted by EMNLP2025 Main.
 - *2025.07*: 🎉 Three paper(RealSyn, UniME, DeGLA) have been accepted by ACM MM2025.
 - *2025.06*: 🎉 Three paper(RICE, ForCenNet, HUST) have been accepted by ICCV2025.
 - *2025.06*: 🎉 DLOV-3D has been accepted by IROS2025.
@@ -31,7 +35,7 @@ Email:kaichengyang0828@gmail.com; kaichengyang@deepglint.com.
 ## Thank you for the visit.
 ![](http://profile-counter.glitch.me/Kaicheng-Yang0828/count.svg)
 
-Please give me a Star if you like.
+Please give me a star🌟 if you like.
 <!--
 **Kaicheng-Yang0828/Kaicheng-Yang0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
